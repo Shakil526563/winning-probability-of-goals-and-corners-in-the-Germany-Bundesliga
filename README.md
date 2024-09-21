@@ -21,3 +21,18 @@ Classification Report: Produced detailed classification metrics (precision, reca
 7. Visualization Techniques
 Used seaborn to create a heatmap visualizing the confusion matrix, making the classification performance easier to interpret.
 Bar plots were employed to represent the feature importances, with proper labeling and formatting for clear communication of the results.
+
+
+![download (1)](https://github.com/user-attachments/assets/084e1acf-4493-4adb-98fc-955a323e0930)
+![download (2)](https://github.com/user-attachments/assets/8519bd89-05e3-4c5a-98f5-c14e5c3c7265)
+![download (3)](https://github.com/user-attachments/assets/09cf0b81-38e4-474d-8c49-e601e855d9ea)
+![download (4)](https://github.com/user-attachments/assets/91b7f875-cc7e-43c4-9168-3035e4a08322)
+![download (5)](https://github.com/user-attachments/assets/afbc124e-f447-453d-ac97-f43cabe10fd8)
+![download (6)](https://github.com/user-attachments/assets/ffc5855b-3b14-4536-92f8-09c4e01278f1)
+![download (7)](https://github.com/user-attachments/assets/be40791f-a3b6-4cb2-a470-e4d653a7e6da)
+![download (8)](https://github.com/user-attachments/assets/19a6e457-796b-4d10-bc5c-c2c67339271a)
+![download](https://github.com/user-attachments/assets/3883dc06-3a9f-4235-adce-fdbb6e54d336)
+
+
+
+
